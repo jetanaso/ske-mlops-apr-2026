@@ -1,0 +1,12 @@
+.env
+airflow/logs/
+airflow/drift_reports/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.python-version
+*.pptx
+venv/
+logs/
+plugins/

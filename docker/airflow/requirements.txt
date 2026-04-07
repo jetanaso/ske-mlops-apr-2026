@@ -1,0 +1,12 @@
+mlflow==2.21.3
+apache-airflow-providers-celery
+scikit-learn
+feature-engine
+imbalanced-learn
+scipy
+numpy
+pandas
+synthia
+python-dotenv
+minio
+evidently
